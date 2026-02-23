@@ -14,7 +14,7 @@ The system is optimized to handle **10,000+ users in its initial phase**, with a
 
 ---
 
-## 🚀 Features
+## 🚀 FeatureS
 
 ### 👤 Customer App
 - Browse fashion & accessories
